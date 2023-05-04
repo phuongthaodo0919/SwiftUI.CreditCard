@@ -1,7 +1,7 @@
 # SwiftUI.CreditCard
 
 
-# Technic
+# Technic applied
 * Declare **generic view** by using **CreditCard<Content> : View where Content: View { }**
 * Use **Group{ }** to group elements which has no specific behavior.
 * Use **rotation3DEffect()** to rotate a view 
